@@ -1,0 +1,9 @@
+public void class{
+
+public stati void main (String args[]){
+
+
+}
+
+
+}
